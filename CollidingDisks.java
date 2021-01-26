@@ -6,8 +6,6 @@
  *  collisions. This program is intended to test that algs4.jar is properly
  *  installed.
  *
- *  This is a completely harmless comment.
- *
  ******************************************************************************/
 
 import edu.princeton.cs.algs4.CollisionSystem;
