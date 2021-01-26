@@ -6,7 +6,7 @@
  *  collisions. This program is intended to test that algs4.jar is properly
  *  installed.
  *
- *  This is a harmless comment.
+ *  This is a fairly harmless comment.
  *
  ******************************************************************************/
 
