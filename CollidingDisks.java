@@ -18,7 +18,7 @@ public class CollidingDisks {
         if (args.length == 1) {
             n = Integer.parseInt(args[0]);
         }
-
+        //help
         // enable double buffering to support animations
         StdDraw.enableDoubleBuffering();
 
